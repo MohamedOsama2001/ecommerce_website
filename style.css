@@ -1,0 +1,1460 @@
+.ahead {
+    width: 100%;
+    height: 50px;
+    float: left;
+    border: solid 1px rgba(0, 0, 0, 0.05);
+    cursor: pointer;
+    background: #fafafa;
+    margin-bottom: 20px;
+}
+
+.ahlogo {
+    width: 30%;
+    height: 100%;
+    float: left;
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    color: orange;
+    color: black;
+}
+
+.ahlogo img {
+    margin-top: 10px;
+    float: left;
+    margin-left: 10px;
+}
+
+.ahlogo .text {
+    width: auto;
+    height: auto;
+    margin-top: 10px;
+    float: left;
+    margin-left: 20px;
+    color: black;
+}
+
+.ahlogo .text:hover {
+    color: #0e8ce4;
+}
+
+.ahmenu {
+    width: 70%;
+    height: 100%;
+    float: left;
+}
+
+.ahmenuright {
+    width: 40%;
+    height: 100%;
+    float: right;
+}
+
+.ahmenuright img {
+    margin-top: 10px;
+    margin-left: 10px;
+    float: left;
+    margin-right: 20px;
+}
+
+.ahmenuright .aname {
+    margin-top: 15px;
+    float: right;
+    margin-right: 30px;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    float: left;
+    margin-left: 5px;
+}
+
+.ahmenuright a {
+    text-decoration: none;
+}
+
+.ahmenuright .alogout {
+    font-size: 20px;
+    color: #0e8ce4;
+    font-weight: bold;
+    margin-top: 15px;
+    width: auto;
+    height: auto;
+    float: left;
+}
+
+.ahmenuright .alogout:hover {
+    text-decoration: underline;
+}
+
+.aslidebar {
+    width: 20%;
+    height: auto;
+    float: left;
+    border: solid 1px rgba(0, 0, 0, 0.05);
+    cursor: pointer;
+    background: #fafafa;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    color: black;
+    margin-bottom: 20px;
+}
+
+.aslidebar a .text {
+    width: 100%;
+    height: 30px;
+    float: left;
+    margin-top: 10px;
+    color: black;
+}
+
+.aslidebar a .text:hover {
+    color: #0e8ce4;
+}
+
+.acontent {
+    width: 70%;
+    height: auto;
+    float: right;
+    border: solid 1px rgba(0, 0, 0, 0.05);
+    cursor: pointer;
+    background: #fafafa;
+    margin-bottom: 20px;
+}
+
+h1 {
+    color: rgb(14, 140, 228);
+    text-align: center;
+}
+
+.acontent .form {
+    width: 50%;
+    height: auto;
+    margin: auto;
+    border: 1px solid black;
+    color: rgb(14, 140, 228);
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    padding-top: 30px;
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+
+.acontent .form input[type=text] {
+    width: 250px;
+    height: 30px;
+    font-size: 20px;
+}
+
+.acontent .form input[type=submit] {
+    width: 20%;
+    height: 30px;
+    font-size: 20px;
+    margin: auto;
+    color: white;
+    background: #0e8ce4;
+    border: none;
+    cursor: pointer;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.acontent .form input[type=submit]:hover {
+    background: #7599b2;
+}
+
+.categories {
+    width: 30%;
+    height: 120;
+    margin: auto;
+    border: 1px solid black;
+    margin-top: 20px;
+    cursor: pointer;
+    margin-bottom: 20px;
+    color: black;
+}
+
+.categories:hover {
+    color: #0e8ce4;
+}
+
+.categories img {
+    width: 30%;
+    height: 50px;
+    margin-left: 35%;
+    margin-right: 35%;
+    margin-top: 10px;
+    float: left;
+    margin-bottom: 30px;
+}
+
+.categories .text {
+    width: 100%;
+    height: 30px;
+    float: left;
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.acontent .form .select {
+    width: 200px;
+    height: 30px;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.product {
+    width: 20%;
+    height: auto;
+    margin-left: 10%;
+    float: left;
+    border: 1px solid black;
+    margin-bottom: 20px;
+    text-align: center;
+    color: black;
+    background: white;
+}
+
+.product img {
+    padding-top: 10px;
+    width: 100px;
+    height: 100px;
+}
+
+.product .text {
+    width: 100%;
+    height: auto;
+    font-size: 15px;
+    padding-top: 10px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.product .text:hover {
+    color: #0e8ce4;
+}
+
+.product .text1 {
+    width: 100%;
+    height: auto;
+    font-size: 20px;
+    padding-top: 10px;
+}
+
+.uheader {
+    width: 100%;
+    height: auto;
+    float: left;
+    background: white;
+}
+
+.header1 {
+    width: 100%;
+    height: auto;
+    float: left;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.name {
+    width: 20%;
+    height: auto;
+    text-align: center;
+    font-size: 36px;
+    font-weight: 500px;
+    color: #0e8ce4;
+    cursor: pointer;
+    margin-right: 10%;
+    float: left;
+}
+
+.name a {
+    text-decoration: none;
+    color: #0e8ce4;
+}
+
+.search {
+    width: 40%;
+    height: auto;
+    float: left;
+}
+
+.search input[type=text] {
+    width: 80%;
+    height: 30px;
+    color: black;
+    font-size: 20px;
+    padding-left: 10px;
+    margin-top: 10px;
+    margin-right: 20%;
+}
+
+.search input[type=submit] {
+    width: 100px;
+    height: 30px;
+    background: #0e8ce4;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    border: none;
+    cursor: pointer;
+}
+
+.option {
+    width: 30%;
+    height: 50px;
+    float: left;
+    cursor: pointer;
+}
+
+.option .signin {
+    width: 60%;
+    height: 100%;
+    float: left;
+    color: black;
+    position: relative;
+
+}
+
+.option .signin .uinfo {
+    position: absolute;
+    width: 100%;
+    height: auto;
+    background: white;
+    top: 50px;
+    color: black;
+    padding-left: 10px;
+    padding-top: 10px;
+    font-size: 20px;
+    padding-right: 10px;
+    overflow-x: scroll;
+    border: 1px solid black;
+    display: none;
+}
+
+.option .signin .uinfo a {
+    text-decoration: none;
+}
+
+.option .signin .uinfo a .logout {
+    width: 30%;
+    height: 30px;
+    margin: auto;
+    background: #0e8ce4;
+    text-align: center;
+    font-size: 20px;
+    padding-top: 5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    cursor: pointer;
+    color: white;
+}
+
+.option .signin .uinfo .logout:hover {
+    background: #7599b2;
+}
+
+.option .signin img {
+    margin-top: 5px;
+    float: left;
+}
+
+.option .signin .s {
+    width: auto;
+    height: auto;
+    float: left;
+    font-size: 20px;
+    margin-top: 15px;
+    margin-left: 10px;
+
+}
+
+.option .signin .s a {
+    color: #0e8ce4;
+    text-decoration: none;
+}
+
+.option .signin .s a:hover {
+    text-decoration: underline;
+}
+
+.option .cart {
+    width: 40%;
+    height: 100%;
+    float: left;
+    color: black;
+
+}
+
+.option .cart img {
+    margin-top: 5px;
+    float: left;
+}
+
+.option .cart .s {
+    width: auto;
+    height: auto;
+    float: left;
+    font-size: 20px;
+    margin-top: 15px;
+    margin-left: 10px;
+    color: black;
+
+}
+
+.option .cart .s:hover {
+    color: #0e8ce4;
+}
+
+.header2 {
+    width: 100%;
+    height: auto;
+    float: left;
+    margin-top: 20px;
+    border: solid 1px rgba(0, 0, 0, 0.05);
+    background: #fafafa;
+    cursor: pointer;
+}
+
+.header2 .cat {
+    width: 20%;
+    height: 40px;
+    float: left;
+    color: white;
+    background: #0e8ce4;
+    text-align: center;
+    font-family: 'Rubik', sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    padding-top: 20px;
+    position: relative;
+}
+
+.header2 .cat .all {
+    width: 100%;
+    height: auto;
+    background: white;
+    position: absolute;
+    top: 60px;
+    display: none;
+    border: solid 1px rgba(0, 0, 0, 0.05);
+}
+
+.ucat {
+    width: 100%;
+    height: 50px;
+    float: left;
+    font-size: 20px;
+    color: black;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.ucat:hover {
+    color: #0e8ce4;
+}
+
+.header2 .menu {
+    width: 60%;
+    height: 60px;
+    float: left;
+    margin-left: 20%;
+}
+
+.header2 .menu .m1 {
+    width: 20%;
+    height: 40px;
+    float: left;
+    text-align: center;
+    font-size: 20px;
+    margin-left: 10%;
+    color: black;
+    padding-top: 20px;
+}
+
+.header2 .menu .m1:hover {
+    color: #0e8ce4;
+}
+
+.footer {
+    width: 100%;
+    height: 300px;
+    float: left;
+    text-shadow: rgb(0 0 0 / 1%) 0 0 1px;
+    background: #FFFFFF;
+    color: #000000;
+}
+
+.sfooter {
+    width: 30%;
+    height: 100%;
+    float: left;
+    margin-right: 3.2%;
+}
+
+.sf1 {
+    width: 100%;
+    height: 130px;
+    float: left;
+    color: black;
+    text-align: center;
+    font-size: 20px;
+    cursor: pointer;
+    padding-top: 20px;
+}
+
+.sf1:hover {
+    color: #0e8ce4;
+}
+
+.sf2 {
+    width: 100%;
+    height: 150px;
+    float: left;
+    text-align: center;
+}
+
+.sf3 {
+    width: 100%;
+    height: 55px;
+    float: left;
+    font-size: 20px;
+    text-align: center;
+    padding-top: 20px;
+    cursor: pointer;
+}
+
+.sf3:hover {
+    color: #0e8ce4;
+}
+
+.sf4 {
+    width: 100%;
+    height: 75px;
+    float: left;
+    cursor: pointer;
+    font-size: 20px;
+    text-align: center;
+    color: black;
+}
+
+.sf4:hover {
+    color: #0e8ce4;
+}
+
+.show {
+    width: 100%;
+    height: auto;
+    float: left;
+    background: #eff6fa;
+    cursor: pointer;
+}
+
+.show .s1 {
+    width: 95%;
+    height: 50px;
+    color: black;
+    font-size: 20px;
+    float: left;
+    padding-left: 70px;
+    padding-top: 20px;
+}
+
+.show .product .text {
+    width: 100%;
+    height: auto;
+    font-size: 20px;
+    padding-top: 10px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    padding-bottom: 5px;
+}
+
+.show .product img {
+    width: 150px;
+    height: 150px;
+    padding-top: 10px;
+}
+
+.pro-detail {
+    width: 60%;
+    height: auto;
+    margin: auto;
+    background: white;
+    float: left;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-bottom: 30px;
+    color: black;
+    border: 1px solid black;
+}
+
+.pro-detail img {
+    width: 40%;
+    height: 200px;
+    float: left;
+    margin-bottom: 20px;
+    margin-top: 10px;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.pro-detail .pro1 {
+    width: 45%;
+    height: auto;
+    float: left;
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 10px;
+    margin-right: 5%;
+    margin-bottom: 30px;
+}
+
+.pro-detail .pro1 input[type=submit] {
+    width: 40%;
+    height: 40px;
+    font-size: 20px;
+    float: left;
+    background: #0e8ce4;
+    text-align: center;
+    color: white;
+    cursor: pointer;
+    border: none;
+    margin-top: 20px;
+}
+
+.pro-detail .pro1 input[type=submit]:hover {
+    background: #7599b2;
+
+}
+
+.pro-detail .pro1 input[type=number] {
+    width: 40%;
+    height: 40px;
+    font-size: 20px;
+}
+
+.d1 {
+    width: 20%;
+    height: 200px;
+    background: white;
+    float: left;
+    margin-left: 10%;
+    margin-top: 20px;
+    margin-bottom: 40px;
+    border: 1px solid black;
+
+}
+
+.d2 {
+    width: 50px;
+    height: 50px;
+    margin: auto;
+    margin-top: 20px;
+    border-radius: 50%;
+    border: 6px #0e8ce4 solid;
+}
+
+.d2 img {
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+h3 {
+    color: black;
+    text-align: center;
+}
+
+.d3 {
+    color: #0e8ce4;
+    font-size: 20px;
+}
+
+.d4 {
+    width: 60%;
+    height: 380px;
+    background: white;
+    float: left;
+    margin-left: 20%;
+    margin-right: 20%;
+    border: 1px solid black;
+    margin-bottom: 20px;
+}
+
+.d4 input {
+    width: 40%;
+    height: 50px;
+    margin-left: 6%;
+    background: white;
+    font-size: 20px;
+    margin-bottom: 30px;
+    border: 1px solid black;
+}
+
+.d4 .d5 {
+    width: 86.5%;
+    height: 50px;
+    margin-left: 6%;
+    background: white;
+    font-size: 20px;
+}
+
+.d4 .d7 {
+    width: 20%;
+    height: 50px;
+    margin-left: 40%;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    background: #0e8ce4;
+    color: white;
+    cursor: pointer;
+    border: none;
+}
+
+.d4 .d7:hover {
+    background: #7599b2;
+}
+
+.H {
+    width: 100%;
+    height: 400px;
+    float: left;
+    background-image: url("https://preview.colorlib.com/theme/onetech/images/banner_background.jpg.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+.H .h1 {
+    width: 40%;
+    height: 100%;
+    float: left;
+    background: rgba(255, 255, 255, 0);
+    margin-top: 20px;
+    margin-left: 25%;
+}
+
+.H .h1 h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    line-height: 1.166;
+    color: #7599b2;
+    text-transform: uppercase;
+    letter-spacing: 0.038em;
+    text-align: left;
+}
+
+.H .h1 a .h2 {
+    width: 25%;
+    height: 30px;
+    background: #0e8ce4;
+    color: white;
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    padding-top: 10px;
+    padding-bottom: 5px;
+    text-decoration: none;
+    margin-top: 100px;
+    float: left;
+}
+
+.H .h1 a .h2:hover {
+    background: #7599b2;
+}
+
+.H .h3 {
+    width: 35%;
+    height: 100%;
+    float: left;
+    background: rgba(255, 255, 255, 0);
+    margin-top: 20px;
+}
+
+.login {
+    width: 30%;
+    height: auto;
+    border: 1px solid black;
+    margin-left: 35%;
+    margin-right: 35%;
+    float: left;
+}
+
+.login h1 {
+    color: #0e8ce4;
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.login input[type=text] {
+    width: 80%;
+    height: 40px;
+    float: left;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 20px;
+    font-size: 20px;
+}
+
+.login input[type=password] {
+    width: 80%;
+    height: 40px;
+    float: left;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 20px;
+    font-size: 20px;
+}
+
+.login input[type=button] {
+    width: 40%;
+    height: 50px;
+    float: left;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-bottom: 20px;
+    font-size: 20px;
+    font-weight: 400;
+    background: #0e8ce4;
+    border: none;
+    color: white;
+    cursor: pointer;
+    margin-bottom: 20px;
+}
+
+.login input[type=button]:hover {
+    background: #7599b2;
+}
+
+.login .select {
+    width: 80%;
+    height: 40px;
+    float: left;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 20px;
+    font-size: 20px;
+}
+
+.login .l1 {
+    font-size: 20px;
+    font-weight: 400;
+    color: black;
+    text-align: center;
+}
+
+.login .l1 a {
+    color: #0e8ce4;
+    text-decoration: none;
+    cursor: pointer;
+
+}
+
+.login .l1 a:hover {
+    text-decoration: underline;
+}
+
+#text2 {
+    width: 100%;
+    height: auto;
+    float: left;
+    text-align: center;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+#text {
+    width: 100%;
+    height: auto;
+    float: left;
+    text-align: center;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+#text1 {
+    width: 100%;
+    height: auto;
+    float: left;
+    text-align: center;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+.message {
+    width: 80%;
+    height: 100px;
+    float: left;
+    border: 1px solid black;
+    font-size: 40px;
+    font-weight: bolder;
+    color: black;
+    margin-bottom: 40px;
+    padding-left: 20%;
+    display: block;
+}
+
+.message input[type=button] {
+    float: right;
+    background: none;
+    font-size: 20px;
+    color: #0e8ce4;
+    top: 0;
+    cursor: pointer;
+    border: none;
+}
+
+.message input[type=button]:hover {
+    text-decoration: underline;
+}
+
+.show .addedbox {
+    width: 30%;
+    height: auto;
+    float: left;
+    border: 1px solid black;
+    margin-left: 2.5%;
+    margin-bottom: 20px;
+    background: white;
+}
+
+.show .addedbox img {
+    width: 80%;
+    height: 300px;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 20px;
+    float: left;
+    margin-bottom: 20px;
+}
+
+.show .addedbox .price {
+    width: 100%;
+    height: auto;
+    float: left;
+    font-size: 30px;
+    color: #0e8ce4;
+    font-weight: bold;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.show .addedbox .name {
+    width: 100%;
+    height: auto;
+    float: left;
+    font-size: 30px;
+    color: black;
+    font-weight: bold;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.show .addedbox .name:hover {
+    color: #0e8ce4;
+
+}
+
+.show .addedbox form input[type=number] {
+    width: 60%;
+    height: 40px;
+    margin-left: 20%;
+    margin-right: 20%;
+    float: left;
+    font-size: 20px;
+}
+
+.show .addedbox form input[type=submit] {
+    width: 40%;
+    height: 40px;
+    margin-left: 6.6%;
+    float: left;
+    font-size: 20px;
+    background: #0e8ce4;
+    color: white;
+    border: none;
+    cursor: pointer;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.show .addedbox form input[type=submit]:hover {
+    background: #7599b2;
+}
+
+.show .addedbox .subtotal {
+    width: 100%;
+    height: auto;
+    float: left;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    color: black;
+}
+
+.show .empty {
+    width: 30%;
+    height: 60px;
+    margin: auto;
+    text-align: center;
+    border: 1px solid black;
+    font-size: 30px;
+    font-weight: bold;
+    padding-top: 20px;
+    margin-bottom: 20px;
+}
+
+.show a {
+    text-decoration: none;
+}
+
+.show a .continue {
+    width: 20%;
+    height: 40;
+    margin: auto;
+    text-align: center;
+    background: #0e8ce4;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    padding-top: 15px;
+    margin-bottom: 20px;
+}
+
+.show a .continue:hover {
+    background: #7599b2;
+}
+
+.show .del-all {
+    width: 100%;
+    height: 50px;
+    float: left;
+    margin-top: 10px;
+}
+
+.show .del-all input[type=submit] {
+    width: 20%;
+    height: 40px;
+    margin-left: 40%;
+    margin-right: 40%;
+    font-size: 20px;
+    font-weight: bold;
+    background: #0e8ce4;
+    border: none;
+    color: white;
+    border: medium none;
+    cursor: pointer;
+}
+
+.show .del-all input[type=submit]:hover {
+    background: #7599b2;
+}
+
+.show .grand {
+    width: 100%;
+    height: auto;
+    float: left;
+    border: 1px solid black;
+    text-align: center;
+}
+
+.show .conshop {
+    width: 20%;
+    height: 40px;
+    background: #0e8ce4;
+    color: white;
+    float: left;
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 29%;
+    padding-top: 10px;
+    margin-right: 2%;
+    margin-bottom: 20px;
+}
+
+.show .checkout {
+    width: 20%;
+    height: 40px;
+    float: left;
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    padding-top: 10px;
+    background: #0e8ce4;
+    color: white;
+    margin-right: 29%;
+    margin-bottom: 20px;
+}
+
+.show .conshop:hover {
+    background: #7599b2;
+}
+
+.show .checkout:hover {
+    background: #7599b2;
+}
+
+.show .spro {
+    width: 30%;
+    height: auto;
+    border: 1px solid black;
+    background: white;
+    float: left;
+    margin-left: 2.5%;
+    margin-bottom: 20px;
+}
+
+.show .spro img {
+    width: 80%;
+    height: 200px;
+    float: left;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.show .spro .price {
+    width: 100%;
+    height: auto;
+    color: black;
+    font-size: 30px;
+    font-weight: bold;
+    float: left;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.show .spro .name {
+    width: 100%;
+    height: auto;
+    color: #0e8ce4;
+    font-size: 30px;
+    font-weight: bold;
+    float: left;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.show .not {
+    width: 30%;
+    float: left;
+    height: 50px;
+    margin-left: 35%;
+    text-align: center;
+    border: 1px solid black;
+    font-size: 30px;
+    font-weight: bold;
+    padding-top: 10px;
+    margin-bottom: 20px;
+}
+
+.show .checkbox {
+    width: auto;
+    height: 50px;
+    float: left;
+    border: 1px solid black;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 20px;
+    padding-left: 5px;
+    padding-right: 5px;
+    color: black;
+    margin-bottom: 20px;
+    margin-right: 10px;
+}
+
+.show .checkbox1 {
+    width: 100%;
+    height: auto;
+    float: left;
+    margin-bottom: 20px;
+}
+
+.show .checkbox2 {
+    width: 100%;
+    height: 50px;
+    float: left;
+    color: #0e8ce4;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 20px;
+
+}
+
+.show .checkoutform {
+    width: 40%;
+    height: auto;
+    margin: 0 30% 0 30%;
+    border: 1px solid black;
+    text-align: center;
+    margin-bottom: 20px;
+    float: left;
+    background: white;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.show .checkoutform input[type=text] {
+    width: 80%;
+    height: 40px;
+    color: black;
+    font-size: 20px;
+    float: left;
+    margin: 0 10% 20px 10%;
+}
+
+.show .checkoutform input[type=button] {
+    width: 30%;
+    height: 40px;
+    color: white;
+    background: #0e8ce4;
+    font-size: 20px;
+    font-weight: bold;
+    float: left;
+    margin: 20px 35% 20px 35%;
+    border: none;
+    cursor: pointer;
+}
+
+.show .checkoutform .chsel {
+    width: 50%;
+    height: 40px;
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+    float: left;
+    margin: 20px 25% 20px 25%;
+    cursor: pointer;
+    
+}
+
+.show .checkoutform input[type=button]:hover {
+    background: #7599b2;
+}
+
+.acontent .order {
+    width: 40%;
+    height: 300px;
+    float: left;
+    margin-left: 6.6%;
+    text-align: center;
+    border: 1px solid black;
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+    padding-top: 5px;
+    margin-bottom: 20px;
+    overflow-y: scroll;
+}
+
+.acontent .messages {
+    width: 40%;
+    height: auto;
+    float: left;
+    margin-left: 6.6%;
+    text-align: center;
+    border: 1px solid black;
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+    padding-top: 5px;
+    margin-bottom: 20px;
+}
+
+.acontent .allusers {
+    width: 40%;
+    height: auto;
+    float: left;
+    margin-left: 6.6%;
+    text-align: center;
+    border: 1px solid black;
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+    padding-top: 5px;
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+}
+
+.acontent .order input[type=submit] {
+    width: 30%;
+    height: 40px;
+    background: #0e8ce4;
+    font-size: 20px;
+    font-weight: bold;
+    border: none;
+    cursor: pointer;
+    float: left;
+    margin: 20px 35% 20px 35%;
+    color: white;
+
+}
+
+.acontent .messages input[type=submit] {
+    width: 30%;
+    height: 40px;
+    background: #0e8ce4;
+    font-size: 20px;
+    font-weight: bold;
+    border: none;
+    cursor: pointer;
+    float: left;
+    margin: 20px 35% 20px 35%;
+    color: white;
+
+}
+
+.acontent .order input[type=submit]:hover {
+    background: #7599b2;
+}
+
+.acontent .messages input[type=submit]:hover {
+    background: #7599b2;
+}
+
+.acontent .noorder {
+    width: 40%;
+    height: 50px;
+    float: left;
+    margin: 0px 30% 20px;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    border: 1px solid black;
+    padding-top: 10px;
+}
+
+.acontent .dashbox {
+    width: 40%;
+    height: 100px;
+    float: left;
+    border: 1px solid black;
+    text-align: center;
+    font-size: 20px;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+    margin-left: 6.6%;
+    color: black;
+}
+
+.acontent .dashbox h3 {
+    color: #0e8ce4;
+}
+
+.show .cardform form {
+    width: 60%;
+    height: auto;
+    float: left;
+    border: 1px solid black;
+    text-align: center;
+    margin: 0 20% 20px 20%;
+    background: white;
+}
+
+.show .cardform form input[type=text] {
+    width: 80%;
+    height: 50px;
+    float: left;
+    font-size: 20px;
+    font-weight: bold;
+    margin: 0 10% 20px 10%;
+    border: 1px solid black;
+}
+
+.show .cardform form input[type=button] {
+    width: 30%;
+    height: 50px;
+    background: #0e8ce4;
+    font-size: 20px;
+    font-weight: bold;
+    cursor: pointer;
+    border: none;
+    float: left;
+    margin: 0 35% 20px 35%;
+    color: white;
+}
+
+.show .cardform form input[type=button]:hover {
+    background: #7599b2;
+}
+
+.show .cardform form #val1 {
+    width: 100%;
+    height: auto;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    margin: 0 0 20px 0;
+}
+
+.show .cardform form #val2 {
+    width: 100%;
+    height: auto;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    margin: 0 0 20px 0;
+}
+
+.show .cardform form #val3 {
+    width: 100%;
+    height: auto;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    margin: 0 0 20px 0;
+}
+
+.show .cardform form #val4 {
+    width: 100%;
+    height: auto;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    margin: 0 0 20px 0;
+}
+
+.footer .copyrights {
+    width: 100%;
+    height: 40px;
+    float: left;
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    color: #0e8ce4;
+    cursor: pointer;
+}
+
+.show .emptyproducts {
+    width: 40%;
+    height: 40px;
+    float: left;
+    border: 1px solid black;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    margin: 0 30% 20px 30%;
+}
+
+.acontent .emptyproducts {
+    width: 40%;
+    height: 40px;
+    float: left;
+    border: 1px solid black;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    margin: 0 30% 20px 30%;
+}
